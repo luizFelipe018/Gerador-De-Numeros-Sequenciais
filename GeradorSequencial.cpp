@@ -11,7 +11,7 @@ int main() {
     int QuantidadeDeNumeros;
 
     cout<<"Digite a quantidade de  numeros que a sequencia deve ter.";
-    cin>> QuantidadeDeNumeros;gi
+    cin>> QuantidadeDeNumeros;
     srand(static_cast<unsigned>(time(NULL)));
 
     
